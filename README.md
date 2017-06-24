@@ -1,2 +1,9 @@
 # hello-world
-Just another repository
+
+
+
+Hi Humans!
+
+
+Nabeel here, I like java and C++.
+
